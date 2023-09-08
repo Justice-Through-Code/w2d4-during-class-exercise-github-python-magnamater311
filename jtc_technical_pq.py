@@ -4,7 +4,7 @@ def jtc_technical():
     print('Hello World?')
     
     
-# jtc_technical()
+#jtc_technical()
 
 '''
 Step 1
